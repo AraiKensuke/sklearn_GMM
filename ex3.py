@@ -21,7 +21,7 @@ n_components = 4
 prm_sets = [[1., 20, 0.001],
             [100, 1e-9, 0.001]]
 
-fig = _plt.figure(figsize=(7, 4))
+fig = _plt.figure(figsize=(7, 3.5))
 i_subpl = 0
 
 random_state = 10
